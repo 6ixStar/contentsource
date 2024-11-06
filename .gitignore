@@ -1,0 +1,9 @@
+node_modules
+src/.env
+src/access.log
+src/logs/*.log
+schema.sql
+src/utils/proxies/proxies*.txt
+src/utils/cases*.json
+src/utils/roblox/items.json
+src/discord/clashclub/output.png
